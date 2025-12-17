@@ -93,7 +93,6 @@ The project's core functionality is contained within `main.py`. This script demo
 
 To run the search engine, execute the main script from your terminal:
 
-``bash
 `python main.py`
 
 # 🤝 Contributing
