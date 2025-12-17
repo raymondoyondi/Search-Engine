@@ -93,5 +93,25 @@ The project's core functionality is contained within `main.py`. This script demo
 
 To run the search engine, execute the main script from your terminal:
 
-```bash
-python main.py
+``bash
+`python main.py`
+
+# 🤝 Contributing
+
+Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
+
+If you have a suggestion that would make this better, please fork the repository and create a pull request. You can also simply open an issue with the tag "enhancement".
+
+1. Fork the repository
+
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature`)
+
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+
+5. Open a Pull Request
+
+# 📜 License
+
+Distributed under the MIT License. See LICENSE for more information.
