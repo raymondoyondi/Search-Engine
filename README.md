@@ -1,4 +1,4 @@
-# 🔍 Custom Search Engine using Exa API
+# 🔍 Search Engine 
 
 ## Project Overview
 
